@@ -552,7 +552,6 @@ const uint16_t* epd_bitmap_allArray[8] = {
 	epd_bitmap_orph7
 };
 
-// --- BEHAVIOR ARRAYS (At the bottom) ---
 const uint16_t* const confusedFrames[] = {
   epd_bitmap_orph0
 };
