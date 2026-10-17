@@ -20,3 +20,19 @@ You can basically code it to code anything you want but im just making it do sim
 <img width="32" height="32" alt="orph6" src="https://github.com/user-attachments/assets/075e10b6-0dc2-471a-9e98-c4ea0746e540" />
 <img width="32" height="32" alt="orph7" src="https://github.com/user-attachments/assets/2d280e17-b183-4f1a-9160-5676526cfe84" />
 
+
+## BOM: 
+
+| Part | Qty | Unit | Total |
+| --- | --- | --- | --- |
+| ESP32-S3 DevKit | 1 | $10.13 | $10.13 |
+| Round Display | 1 | $5.29 | $5.29 |
+| TP4056 Type-C Charger | 1 | $0.20 | $0.20 |
+| Passive Buzzer | 1 | $0.51 | $0.51 |
+| Push buttons | 1 | $0.20 | $0.20 |
+| Power switch | 1 | $0.27 | $0.27 |
+| Straight Female Pin Headers | 1 | $1.02 | $1.02 |
+| Battery connector | 1 | $0.62 | $0.62 |
+| Battery | 1 | $3.80 | $3.80 |
+| PCB | 1 | $10.00 | $10.00 |
+| Total | | | $32.04 |
