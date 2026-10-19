@@ -1,0 +1,2 @@
+## 06-10-2026
+Hiii , i searched and added all the components needed for the project and added them in the BOM and i drew a rough sketch of how the project-Desk pet will look like . after all the components were confirmed i downloed the 3d step file of the components , added their symbols in kicad schematic and wired them all together. so now the schematic is done and im assigning the footprint of it .Kicad keeps on crashing so its hard to finish it :
