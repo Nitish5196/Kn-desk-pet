@@ -1,0 +1,10 @@
+Id,Designator,Footprint,Quantity,Designation,Supplier and ref,Link,Cost 
+1,BZ1,Buzzer_12x9.5RM7.6,1,Buzzer,Robu,Buy 5V Passive Buzzer-10 Pcs. Online at Robu.in,$0.51
+2,Display1,PinSocket_1x07_P2.54mm_Vertical,1,Conn_01x07,Robu,GoldenMorning GC9A01 7P 240X240 SPI 1.28 Inch Round Display Module | Robu.in,$5.29
+3,"ESP-left1, ESP-right1",PinSocket_1x22_P2.54mm_Vertical,2,Conn_01x22,Amazon india,"OceanLabz ESP32-S3 DevKit-N16R8 Board, Dual USB - OTG Plus UART, 16MB Flash 8MB PSRAM Wi-Fi and Bluetooth 5, Ideal for AI-IoT, Soldered Header Pins : Amazon.in",$10.13
+4,"J1, J2, J4",PinHeader_1x02_P2.54mm_Vertical,3,Conn_01x02,robu,Buy TP4056 1A Li-ion Charging Module With Current Protection | Robu.in,$0.20
+5,J3,JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical,1,Conn_01x02,robu,Buy JST Male 2 Pin Connector-10pcs at Best Price | Robu.in,$0.62
+6,SW1,SW_Toggle_Blue_wSlots,1,SW_SPDT,robu,MTS-102-A2T-Miniature Toggle Switch-3 Pin(ON-ON),$0.27
+7,"SW2, SW3",SW_PUSH_6mm_H5mm,2,SW_Push,robu,https://robu.in/product/6x6x5-tactile-push-button-switch/,$0.20
+8,Battery ,external,1,,Amazon india,https://www.amazon.in/KP-Rechargeable-Battery-902535-Connector/dp/B0DY89KG26/ref=cm_cr_arp_d_product_top?ie=UTF8,$3.80
+9,PCB,,1,,robu,https://robu.in/product/online-pcb-manufacturing-service/,$10.00
