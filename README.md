@@ -23,16 +23,16 @@ You can basically code it to code anything you want but im just making it do sim
 
 ## BOM: 
 
-| Part | Qty | Unit | Total |
-| --- | --- | --- | --- |
-| ESP32-S3 DevKit | 1 | $10.13 | $10.13 |
-| Round Display | 1 | $5.29 | $5.29 |
-| TP4056 Type-C Charger | 1 | $0.20 | $0.20 |
-| Passive Buzzer | 1 | $0.51 | $0.51 |
-| Push buttons | 1 | $0.20 | $0.20 |
-| Power switch | 1 | $0.27 | $0.27 |
-| Straight Female Pin Headers | 1 | $1.02 | $1.02 |
-| Battery connector | 1 | $0.62 | $0.62 |
-| Battery | 1 | $3.80 | $3.80 |
-| PCB | 1 | $10.00 | $10.00 |
+| Part | Qty | Unit | Total | Link |
+| --- | --- | --- | --- | --- |
+| ESP32-S3 DevKit | 1 | $10.13 | $10.13 | https://www.amazon.in/OceanLabz-ESP32-S3-DevKit-N16R8-MicroPython-Unsoldered/dp/B0F9XB91XG/ref=sr_1_5?crid=1G0OY53KWR6BK&dib=eyJ2IjoiMSJ9.zjUp9SL683q9W3uyF354cuWWZeAE9XPlOSGDfnoeWudk8t3GRA8UuNwYVbu0mKYuyhRK6mLEz3rXj2izIy6QzLVV0bhIhzcQGhPA3Q9-ttGfDcAY80otmx4exqhnPDa8HHlxwS45stbhcj5UdVMDePCQJKNugmUbLa9yzyPOZk_99rDhtOCwfp6EJOdZO-MI5__koZ3nfXhz8uL1eTZt4jcjMVgLrWstaP1U4--AexY2V3qft1FluYwzD-w9p6YX_B52r8EuG64BOw3nBsypi11aW0fe7h8_wH8u3Xna7-w.vhQx7T2ZtLYWMO7Q6XMFm8dWrsnzzQLhLh4NF0P5mYI&dib_tag=se&keywords=esp32+s3+devkit&qid=1791373567&sprefix=ESP32+S3+de%2Caps%2C630&sr=8-5 |
+| Round Display | 1 | $5.29 | $5.29 | https://robu.in/product/goldenmorning-gc9a01-7p-240x240-spi-1-28-inch-round-display-module/ |
+| TP4056 Type-C Charger | 1 | $0.20 | $0.20 | https://robu.in/product/tp4056-1a-li-ion-lithium-battery-charging-module-with-current-protection-type-c/ |
+| Passive Buzzer | 1 | $0.51 | $0.51 | https://robu.in/product/1-month-warranty-1248/ |
+| Push buttons | 1 | $0.20 | $0.20 | [https://robu.in/product/mts-102-a2t-miniature-toggle-switch-3-pinon-on/](https://robu.in/product/tp4056-1a-li-ion-lithium-battery-charging-module-with-current-protection-type-c/) |
+| Power switch | 1 | $0.27 | $0.27 | https://robu.in/product/mts-102-a2t-miniature-toggle-switch-3-pinon-on/ |
+| Straight Female Pin Headers | 1 | $1.02 | $1.02 | https://robu.in/product/1-40-pin-2-54m-straight-long-female-berg-strip-connector-pack-of-5/ |
+| Battery connector | 1 | $0.62 | $0.62 | https://robu.in/product/jst-male-2-pin-connector-set-10pcsset/ |
+| Battery | 1 | $3.80 | $3.80 | https://www.amazon.in/KP-Rechargeable-Battery-902535-Connector/dp/B0DY89KG26/ref=cm_cr_arp_d_product_top?ie=UTF8 |
+| PCB | 1 | $10.00 | $10.00 | https://robu.in/product/online-pcb-manufacturing-service/ |
 | Total | | | $32.04 |
